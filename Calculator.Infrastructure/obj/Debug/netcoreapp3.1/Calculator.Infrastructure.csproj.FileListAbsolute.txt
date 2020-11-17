@@ -1,0 +1,9 @@
+F:\Pracjuly2020\Assignment\Calculator.Infrastructure\bin\Debug\netcoreapp3.1\Calculator.Infrastructure.deps.json
+F:\Pracjuly2020\Assignment\Calculator.Infrastructure\bin\Debug\netcoreapp3.1\Calculator.Infrastructure.dll
+F:\Pracjuly2020\Assignment\Calculator.Infrastructure\bin\Debug\netcoreapp3.1\Calculator.Infrastructure.pdb
+F:\Pracjuly2020\Assignment\Calculator.Infrastructure\obj\Debug\netcoreapp3.1\Calculator.Infrastructure.csprojAssemblyReference.cache
+F:\Pracjuly2020\Assignment\Calculator.Infrastructure\obj\Debug\netcoreapp3.1\Calculator.Infrastructure.AssemblyInfoInputs.cache
+F:\Pracjuly2020\Assignment\Calculator.Infrastructure\obj\Debug\netcoreapp3.1\Calculator.Infrastructure.AssemblyInfo.cs
+F:\Pracjuly2020\Assignment\Calculator.Infrastructure\obj\Debug\netcoreapp3.1\Calculator.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Pracjuly2020\Assignment\Calculator.Infrastructure\obj\Debug\netcoreapp3.1\Calculator.Infrastructure.dll
+F:\Pracjuly2020\Assignment\Calculator.Infrastructure\obj\Debug\netcoreapp3.1\Calculator.Infrastructure.pdb

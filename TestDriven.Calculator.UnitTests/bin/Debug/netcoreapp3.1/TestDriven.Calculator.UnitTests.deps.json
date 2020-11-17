@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TestDriven.Calculator.UnitTests/1.0.0": {
+        "runtime": {
+          "TestDriven.Calculator.UnitTests.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestDriven.Calculator.UnitTests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

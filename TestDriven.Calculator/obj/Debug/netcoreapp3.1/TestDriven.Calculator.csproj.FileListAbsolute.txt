@@ -1,0 +1,12 @@
+F:\Pracjuly2020\Assignment\TestDriven.Calculator\bin\Debug\netcoreapp3.1\TestDriven.Calculator.deps.json
+F:\Pracjuly2020\Assignment\TestDriven.Calculator\bin\Debug\netcoreapp3.1\TestDriven.Calculator.dll
+F:\Pracjuly2020\Assignment\TestDriven.Calculator\bin\Debug\netcoreapp3.1\TestDriven.Calculator.pdb
+F:\Pracjuly2020\Assignment\TestDriven.Calculator\bin\Debug\netcoreapp3.1\CalculatorInterface.dll
+F:\Pracjuly2020\Assignment\TestDriven.Calculator\bin\Debug\netcoreapp3.1\CalculatorInterface.pdb
+F:\Pracjuly2020\Assignment\TestDriven.Calculator\obj\Debug\netcoreapp3.1\TestDriven.Calculator.csprojAssemblyReference.cache
+F:\Pracjuly2020\Assignment\TestDriven.Calculator\obj\Debug\netcoreapp3.1\TestDriven.Calculator.AssemblyInfoInputs.cache
+F:\Pracjuly2020\Assignment\TestDriven.Calculator\obj\Debug\netcoreapp3.1\TestDriven.Calculator.AssemblyInfo.cs
+F:\Pracjuly2020\Assignment\TestDriven.Calculator\obj\Debug\netcoreapp3.1\TestDriven.Calculator.csproj.CoreCompileInputs.cache
+F:\Pracjuly2020\Assignment\TestDriven.Calculator\obj\Debug\netcoreapp3.1\TestDriven.Calculator.csproj.CopyComplete
+F:\Pracjuly2020\Assignment\TestDriven.Calculator\obj\Debug\netcoreapp3.1\TestDriven.Calculator.dll
+F:\Pracjuly2020\Assignment\TestDriven.Calculator\obj\Debug\netcoreapp3.1\TestDriven.Calculator.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x03SMmG7SaZDAv+CKgyG/JLsbUsfXBGR89DY16uYGgxEYZZcPDggRUua6jUNYR17zQyYmO9FKnjhBKlMVzToWw==",
+  "success": true,
+  "projectFilePath": "F:\\Pracjuly2020\\Assignment\\CalculatorAdoApi\\CalculatorAdoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

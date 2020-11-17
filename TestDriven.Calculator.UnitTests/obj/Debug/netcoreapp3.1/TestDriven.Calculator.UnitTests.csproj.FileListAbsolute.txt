@@ -1,0 +1,13 @@
+F:\Pracjuly2020\Assignment\TestDriven.Calculator.UnitTests\bin\Debug\netcoreapp3.1\TestDriven.Calculator.UnitTests.exe
+F:\Pracjuly2020\Assignment\TestDriven.Calculator.UnitTests\bin\Debug\netcoreapp3.1\TestDriven.Calculator.UnitTests.deps.json
+F:\Pracjuly2020\Assignment\TestDriven.Calculator.UnitTests\bin\Debug\netcoreapp3.1\TestDriven.Calculator.UnitTests.runtimeconfig.json
+F:\Pracjuly2020\Assignment\TestDriven.Calculator.UnitTests\bin\Debug\netcoreapp3.1\TestDriven.Calculator.UnitTests.runtimeconfig.dev.json
+F:\Pracjuly2020\Assignment\TestDriven.Calculator.UnitTests\bin\Debug\netcoreapp3.1\TestDriven.Calculator.UnitTests.dll
+F:\Pracjuly2020\Assignment\TestDriven.Calculator.UnitTests\bin\Debug\netcoreapp3.1\TestDriven.Calculator.UnitTests.pdb
+F:\Pracjuly2020\Assignment\TestDriven.Calculator.UnitTests\obj\Debug\netcoreapp3.1\TestDriven.Calculator.UnitTests.csprojAssemblyReference.cache
+F:\Pracjuly2020\Assignment\TestDriven.Calculator.UnitTests\obj\Debug\netcoreapp3.1\TestDriven.Calculator.UnitTests.AssemblyInfoInputs.cache
+F:\Pracjuly2020\Assignment\TestDriven.Calculator.UnitTests\obj\Debug\netcoreapp3.1\TestDriven.Calculator.UnitTests.AssemblyInfo.cs
+F:\Pracjuly2020\Assignment\TestDriven.Calculator.UnitTests\obj\Debug\netcoreapp3.1\TestDriven.Calculator.UnitTests.csproj.CoreCompileInputs.cache
+F:\Pracjuly2020\Assignment\TestDriven.Calculator.UnitTests\obj\Debug\netcoreapp3.1\TestDriven.Calculator.UnitTests.dll
+F:\Pracjuly2020\Assignment\TestDriven.Calculator.UnitTests\obj\Debug\netcoreapp3.1\TestDriven.Calculator.UnitTests.pdb
+F:\Pracjuly2020\Assignment\TestDriven.Calculator.UnitTests\obj\Debug\netcoreapp3.1\TestDriven.Calculator.UnitTests.genruntimeconfig.cache

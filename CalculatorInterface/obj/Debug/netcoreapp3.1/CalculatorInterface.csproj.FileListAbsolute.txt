@@ -1,0 +1,9 @@
+F:\Pracjuly2020\Assignment\CalculatorInterface\bin\Debug\netcoreapp3.1\CalculatorInterface.deps.json
+F:\Pracjuly2020\Assignment\CalculatorInterface\bin\Debug\netcoreapp3.1\CalculatorInterface.dll
+F:\Pracjuly2020\Assignment\CalculatorInterface\bin\Debug\netcoreapp3.1\CalculatorInterface.pdb
+F:\Pracjuly2020\Assignment\CalculatorInterface\obj\Debug\netcoreapp3.1\CalculatorInterface.csprojAssemblyReference.cache
+F:\Pracjuly2020\Assignment\CalculatorInterface\obj\Debug\netcoreapp3.1\CalculatorInterface.AssemblyInfoInputs.cache
+F:\Pracjuly2020\Assignment\CalculatorInterface\obj\Debug\netcoreapp3.1\CalculatorInterface.AssemblyInfo.cs
+F:\Pracjuly2020\Assignment\CalculatorInterface\obj\Debug\netcoreapp3.1\CalculatorInterface.csproj.CoreCompileInputs.cache
+F:\Pracjuly2020\Assignment\CalculatorInterface\obj\Debug\netcoreapp3.1\CalculatorInterface.dll
+F:\Pracjuly2020\Assignment\CalculatorInterface\obj\Debug\netcoreapp3.1\CalculatorInterface.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5aYAIdtK4TZVY3u+Rhx90pGZLhKMEtfurCCjckugkUoTIKsyvHikzhYCMR/BovbAYxJlnxrLVqEnmuvBWppvqQ==",
+  "success": true,
+  "projectFilePath": "F:\\Pracjuly2020\\Assignment\\ConsoleAppCore\\ConsoleAppCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\documentformat.openxml\\2.11.3\\documentformat.openxml.2.11.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

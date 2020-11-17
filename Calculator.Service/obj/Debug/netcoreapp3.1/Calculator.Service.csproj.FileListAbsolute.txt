@@ -1,0 +1,12 @@
+F:\Pracjuly2020\Assignment\Calculator.Service\bin\Debug\netcoreapp3.1\Calculator.Service.deps.json
+F:\Pracjuly2020\Assignment\Calculator.Service\bin\Debug\netcoreapp3.1\Calculator.Service.dll
+F:\Pracjuly2020\Assignment\Calculator.Service\bin\Debug\netcoreapp3.1\Calculator.Service.pdb
+F:\Pracjuly2020\Assignment\Calculator.Service\obj\Debug\netcoreapp3.1\Calculator.Service.csprojAssemblyReference.cache
+F:\Pracjuly2020\Assignment\Calculator.Service\obj\Debug\netcoreapp3.1\Calculator.Service.AssemblyInfoInputs.cache
+F:\Pracjuly2020\Assignment\Calculator.Service\obj\Debug\netcoreapp3.1\Calculator.Service.AssemblyInfo.cs
+F:\Pracjuly2020\Assignment\Calculator.Service\obj\Debug\netcoreapp3.1\Calculator.Service.csproj.CoreCompileInputs.cache
+F:\Pracjuly2020\Assignment\Calculator.Service\obj\Debug\netcoreapp3.1\Calculator.Service.dll
+F:\Pracjuly2020\Assignment\Calculator.Service\obj\Debug\netcoreapp3.1\Calculator.Service.pdb
+F:\Pracjuly2020\Assignment\Calculator.Service\bin\Debug\netcoreapp3.1\CalculatorInterface.dll
+F:\Pracjuly2020\Assignment\Calculator.Service\bin\Debug\netcoreapp3.1\CalculatorInterface.pdb
+F:\Pracjuly2020\Assignment\Calculator.Service\obj\Debug\netcoreapp3.1\Calculator.Service.csproj.CopyComplete
